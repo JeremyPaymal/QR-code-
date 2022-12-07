@@ -5,7 +5,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -14,23 +13,14 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Select and submit a number rating
-- See the "Thank you" card state after submitting a rating
-
 ### Screenshot
 
-![](./design/interactive-preview.png)
+![](./design/qr-code-preview.png)
 
 ### Links
 
-- Solution URL: https://github.com/JeremyPaymal/Interactive-Rating
-- Live Site URL: https://interact-rating-website.netlify.app/
+- Solution URL: https://github.com/JeremyPaymal/QR-code-
+- Live Site URL: https://qr-code-challeng.netlify.app/
 
 ## My process
 
@@ -41,6 +31,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Rating Preview](https://interact-rating-website.netlify.app/)
+- Website - [JP Project](https://jp-project.com/)
 - Frontend Mentor - [@JeremyPaymal](https://www.frontendmentor.io/profile/JeremyPaymal)
 - Twitter - [@JeremyPaymal](https://twitter.com/JeremyPaymal)
